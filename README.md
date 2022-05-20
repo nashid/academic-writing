@@ -59,9 +59,5 @@ Taught by Dr. `Kristin Sainani`
 + Learn tips for how to interview a scientist.
 
 ## Common mistakes:
-### [Unit 8: Communication with broader audiences](https://github.com/quanghuy0497/Writing-in-the-Science_Stanford/tree/main/Unit%2008%20-%20Communication%20with%20broader%20audiences)
-+ Recognize the importance of communicating science with broader audiences.
-+ Be prepared to be interviewed by a journalist.
-+ Recognize the difference between writing for scientific audiences and writing for lay audiences.
-+ Understand the structure of a science news story.
-+ Learn tips for how to interview a scientist.
+### [Informal words to avoid](https://github.com/nashid/academic-writing/blob/main/common-mistakes/avoid-informal-words.md)
++ Avoid informal words in academic writing.
