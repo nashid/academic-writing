@@ -4,9 +4,27 @@
 * “like”  to “such as”
 * “that"  to “which”
 * we at first -> we first
+
 * to get -> to obtain (get is very informal)
+* get    -> "receives"
+
 * However, input to the models -> drop "However"
 * So - "Akin to “very,” it is not necessary to use and is a form of overstatement."
+
+* "Also" to "Moreover/Furthermore"
+* "So"   to "Therefore"
+* "And": "And the participants were all over the age of 30" => "The participants were all over the age of 30"
+* "Besides" to "Additionally"
+
+* "Give" -> "provides/offers/presents"
+* Good   -> "useful/prime"
+
+* Show -> "The below figure shows" -> "The below figure (illustrates/demonstrates/reveals)"
+
+* "Obviously, of course" -> "clearly"
+
+* "Has got/have got" -> "has"
+* "Serves to, helps to" -> "This chapter serves to explain"	-> "This chapter explains"
 
 # Avoid vague words
 * [Thing,” “stuff,” “good,” “bad,” “big“](https://jlvcollegecounseling.com/2018/03/13/20-words-to-avoid-writing-in-your-essay/)
