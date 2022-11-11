@@ -26,6 +26,8 @@
 * "Has got/have got" -> "has"
 * "Serves to, helps to" -> "This chapter serves to explain"	-> "This chapter explains"
 
+* "less" -> "fewer"
+
 # Avoid vague words
 * [Thing,” “stuff,” “good,” “bad,” “big“](https://jlvcollegecounseling.com/2018/03/13/20-words-to-avoid-writing-in-your-essay/)
 
